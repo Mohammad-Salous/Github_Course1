@@ -1,2 +1,2 @@
 # Github_Course1
-My first repository in this course
+### This is my first repository in this course
